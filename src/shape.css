@@ -1,0 +1,60 @@
+/* Container and header styling */
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    font-family: Georgia, serif;
+    color: #333333;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    color: white ;
+    margin-bottom: 30px;
+}
+
+/* Content section layout */
+.content {
+    display: flex;
+    gap: 20px;
+}
+
+.left {
+    flex: 1;
+}
+
+.left img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Right section for text */
+.right {
+    flex: 2;
+    line-height: 1.6;
+}
+
+.right p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    color:white;
+}
+
+.right h2 {
+    font-size: 20px;
+    margin-top: 30px;
+    color:white ;
+}
+
+.right ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.right li {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color:white ;
+}
