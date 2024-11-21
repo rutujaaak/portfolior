@@ -1,5 +1,5 @@
 import React from "react";
-import KpImage from 'C:/Users/Rutuja Kale/rutuja/src/asset/12.jpg';
+import KpImage from '../../src/asset/12.jpg';
 import './about.css';
 
 const About = () => {

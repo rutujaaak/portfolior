@@ -1,6 +1,6 @@
 import React from "react";
 import './solo.css';
-import image2 from 'C:/Users/Rutuja Kale/rutuja/src/asset/kk.jpg';
+import image2 from '../../src/asset/kk.jpg';
 // Corrected relative path
 
 const Project = () => {

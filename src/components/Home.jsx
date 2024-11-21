@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import kImage from 'C:/Users/Rutuja Kale/rutuja/src/asset/k.jpg'; // Corrected image path
+import kImage from '../../src/asset/k.jpg'; // Corrected image path
 import './home.css'; // Corrected CSS file path
 
 const Main = () => {
