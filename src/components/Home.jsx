@@ -63,16 +63,9 @@ const Main = () => {
               </div>
             </div>
             <div className="vertical">
-              <div className="vertical-title">Android Studio</div>
-              <div className="vertical-desc">
-                Developed a healthcare application with features like user login, lab test ordering, and appointment booking.
-              </div>
-            </div>
-            <div className="vertical">
-              <div className="vertical-title">Android Studio</div>
+              <div className="vertical-title">Current Internship</div>
               <div className="vertical-desc">
                 Currently working as a Jr. Developer intern at Edudiagno pvt. ltd.
-              
               </div>
             </div>
           </div>
