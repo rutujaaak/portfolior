@@ -30,7 +30,6 @@ const About = () => {
                             <li>Represented Maharashtra in the National CBSE Science Competition, where I designed and built an innovative solar-powered cycle operating on battery technology. This project earned a patent, showcasing my commitment to sustainable solutions and technical ingenuity.</li>
                             <li>Awarded Runner-Up in the Inter-College Badminton Competition as part of a group event, demonstrating teamwork and competitive spirit.</li>
                             <li>Active participation in Smart India Hackathon where we developed a prototype of an oil separator from water.</li>
-                            <li>Competed in the Vaarroc International Competition, an event that allowed me to challenge myself alongside talented individuals from various backgrounds.</li>
                             <li>Achieved Power BI, Data Analyst Certifications from Coursera.</li>
                         </ul>
                     </div>

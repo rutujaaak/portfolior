@@ -25,7 +25,7 @@ const Main = () => {
         <section className="firstSection">
           <div className="leftSection">
             <span className="purple">I'm Rutuja</span>
-            <div className="purple">Web, SQL Developer</div>
+            <div className="purple">Full Stack Developer</div>
             <span id="element" className="white">Welcome to my Portfolio</span> {/* Typing effect */}
           </div>
           <div className="rightSection">
@@ -66,6 +66,13 @@ const Main = () => {
               <div className="vertical-title">Android Studio</div>
               <div className="vertical-desc">
                 Developed a healthcare application with features like user login, lab test ordering, and appointment booking.
+              </div>
+            </div>
+            <div className="vertical">
+              <div className="vertical-title">Android Studio</div>
+              <div className="vertical-desc">
+                Currently working as a Jr. Developer intern at Edudiagno pvt. ltd.
+              
               </div>
             </div>
           </div>
