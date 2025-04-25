@@ -43,31 +43,26 @@ const Main = () => {
               <div className="vertical-desc">
                 I have hands-on experience with AWS services like EC2, S3, Lambda, and RDS, focusing on cloud infrastructure and automation.
               </div>
-            </div>
-            <div className="vertical">
-              <div className="vertical-title">Web Development Internship</div>
-              <div className="vertical-desc">
-                Interned at Code Clause, crafting an online video platform, stopwatch, and to-do list using HTML, CSS, and JavaScript.
               </div>
             </div>
             <div className="vertical">
-              <div className="vertical-title">SQL Developer</div>
+              <div className="vertical-title">Python based smart Job Recommender</div>
               <div className="vertical-desc">
-                Built a database-driven Employee Management System with features to update, view, and delete employee records.
+                Python based smart job recommender that parses through resume and suggests real time jobs using APIs.
+
               </div>
+            </div>
+            <div className="vertical">
+              <div className="vertical-title">SQL Developer for business insighter SaaS platform.</div>
+              <div className="vertical-desc">
+              A finance management SaaS platform for tracking income and expenses. Built using Next.js, TailwindCSS, and PostgreSQL. Features include responsive dashboards, CSV import, and real-time updates. Deployed on Vercel with high availability and improved user experience through streamlined data entry and reporting.              </div>
             </div>
             <div className="vertical">
               <div className="vertical-title">Power BI</div>
               <div className="vertical-desc">
-                Developed a Power BI dashboard for real-time sales insights for a computer hardware business.
-              </div>
+                Developed a Power BI dashboard for real-time sales insights for a business.
             </div>
-            <div className="vertical">
-              <div className="vertical-title">Current Internship</div>
-              <div className="vertical-desc">
-                Currently working as a Jr. Developer intern at Edudiagno pvt. ltd.
-              </div>
-            </div>
+            
           </div>
         </section>
       </main>
